@@ -6,7 +6,7 @@
  Will.Flourance@cmaa.org
  */
 
-.bg-grey{ background-color: #e9e9e9; 
+.bg-grey{ background-color: #333;
 
 }
 
@@ -15,7 +15,7 @@ width: 65%
 }
 
 .cmaa-logo { width: 300px;
-	
+
 }
 
 .travel{
@@ -28,16 +28,16 @@ width: 65%
 }
 
 .overlay.overlay-clr .fa, .overlay.overlay-clr .icon{
-	color:rgba(2,94,150,1.00)
-	
+	color: #7b0a6b;
+
 }
 
 .mmc-headline{
-	
+
 	font-family: helvetica neue, sans-serif;
 	font-weight: 400;
 	font-size: 2.7em;
-	
+
 }
 
 .block { display: inline-block;
@@ -45,7 +45,7 @@ width: 65%
     vertical-align: middle;
 	width: 50%;
 	padding: 0 15px 0 15px;
-	
+
 
 }
 
@@ -66,7 +66,7 @@ MEDIA QUERIES
     white-space: normal;
     vertical-align: middle;
 	width: 100%;
-	
+
 
 }
 
@@ -79,14 +79,14 @@ MEDIA QUERIES
 
 @media (max-width: 767px)
 {
-	.cmaa-logo { padding: 10px 
+	.cmaa-logo { padding: 10px
 	}
-	
+
 .llc-logo{ margin: 20px;
 width: 80%
 }
-	
-	
+
+
 
 	h5.heading-alt {
   text-transform: uppercase;
@@ -101,7 +101,7 @@ width: 80%
     white-space: normal;
     vertical-align: middle;
 	width: 100%;
-	
+
 
 }
 
@@ -118,19 +118,19 @@ width: 80%
 
 
 @media (max-width: 550px){
-	.section { 
+	.section {
 		padding-left: 25px;
 		padding-right: 25px;
-	
+
 	}
-	
-	.cmaa-logo { 
+
+	.cmaa-logo {
 		width: 250px;
 		padding: 15px 15px 15px 15px;
 		margin-top: 15px;
-		
+
 
 	}
-	
+
 	#contacts-map{ height: 200px;}
 }

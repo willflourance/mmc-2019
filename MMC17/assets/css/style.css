@@ -2023,13 +2023,13 @@ h4,
 
 h6,
 .h7 {  font-family:  "Helvetica Neue",  Arial, Helvetica, sans-serif;
-  font-weight: 600;	
+  font-weight: 600;
 
-	
+
 }
-h5{ 
+h5{
   font-family:  "Helvetica Neue",  Arial, Helvetica, sans-serif;
-  font-weight: 300;	
+  font-weight: 300;
 }
 
 h1,
@@ -2143,7 +2143,7 @@ span {
 }
 .light-text,
 .footer {
-  color: #025E96;
+  color: #7b0a6b;
 }
 .light-text h1,
 .light-text h2,
@@ -2179,7 +2179,7 @@ span {
 .footer h6.heading-alt,
 .footer .h7.heading-alt,
 .footer .h8.heading-alt {
-  color: #025E96;
+  color: #7b0a6b;
 }
 .dark-text {
   color: #000000;
@@ -2192,12 +2192,12 @@ span {
 }
 
 .white-text {
-	
+
 	color: #fff;}
 
 .white-text h2{
 	  color: #fff;
-	
+
 }
 
 /* Media queries */
@@ -2248,7 +2248,7 @@ span {
   .sub-title.big {
     font-size: 15px;
   }
-	
+
 
 }
 /* ----------------------------------------------------------------------------
@@ -4912,7 +4912,7 @@ button[type="submit"] .loading {
   padding: 20px 20px;
   text-align: left;
   background-color: #dddddd;
-font-size: 16px;	
+font-size: 16px;
 }
 
 testimonial .text-box:before,
@@ -5319,7 +5319,7 @@ testimonial .text-box:before,
   border-width: 0;
   border-color: transparent;
 }
-/** Removed padding for 3 digit entries **/ 
+/** Removed padding for 3 digit entries **/
 .counter-block.counter-block-solid .counter-content {
  padding: 0 0px;
 }
@@ -5388,7 +5388,7 @@ testimonial .text-box:before,
     font-weight: 700;
     line-height: 1px;
 	color: #A5CD38;
-	
+
 }
 
 .counter-box .counter-content > .fa {
@@ -6636,7 +6636,7 @@ margin-left: 50px
   }
   .navigation-link {
     display: block;
-    padding: 18px 0 18px; 
+    padding: 18px 0 18px;
     font-size: 15px;
     text-transform: none;
     border: none;
@@ -6976,7 +6976,7 @@ margin-left: 50px
     Theme styles
 ---------------------------------------------------------------------------- */
 .bg1 {
-  background-image: url("../img/backgrounds/bg1-new.jpg");
+  background-image: url("../img/backgrounds/bg-new-orleans.png");
 }
 .bg2 {
   background-image: url("../img/backgrounds/bg1-new.jpg");
@@ -6993,7 +6993,7 @@ margin-left: 50px
 
 .bg6 {
   background-image: url("../img/backgrounds/the-marquette.jpg");
-	
+
 
 }
 .gradient-overlay:before {
@@ -7008,7 +7008,7 @@ margin-left: 50px
   opacity: 0.7;
 }
 .bg1.overlay:before {
-	opacity: 0.8;
+	opacity: .7;
 	background-color: #fff !important;
 }
 .bg4.overlay:before {
