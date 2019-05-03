@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+/*!
+ *CSS Modifications to Ventcamp Theme For Leadership Legestlative Confererence 2017 in Washington, DC.
+ *Additional CSS Developed by Will Flourance, Web Designer / Developer @ Club Managers Association of America - Copyright 2017.
+ Will.Flourance@cmaa.org
+ */
+
+.bg-grey{ background-color: #e9e9e9; 
+
+}
+
+.llc-logo{ margin: 25px;
+width: 65%
+}
+
+.cmaa-logo { width: 300px;
+	
+}
+
+.travel{
+  background-color: rgba(255,255,255,0.95);
+	color: black;
+	text-align: center;
+	padding: 25px;
+	font-size: 1.4em;
+
+}
+
+.overlay.overlay-clr .fa, .overlay.overlay-clr .icon{
+	color:rgba(2,94,150,1.00)
+	
+}
+
+.mmc-headline{
+	
+	font-family: helvetica neue, sans-serif;
+	font-weight: 400;
+	font-size: 2.7em;
+	
+}
+
+.block { display: inline-block;
+    white-space: normal;
+    vertical-align: middle;
+	width: 50%;
+	padding: 0 15px 0 15px;
+	
+
+}
+
+
+.wrapper {
+    display: inline-block;
+	white-space: nowrap;
+
+}
+/***************!
+
+MEDIA QUERIES
+
+****************/
+@media (max-width: 991px)
+{
+	.block{ display: block;
+    white-space: normal;
+    vertical-align: middle;
+	width: 100%;
+	
+
+}
+
+.wrapper {
+	white-space: nowrap;
+	align-content: center;
+
+}
+}
+
+@media (max-width: 767px)
+{
+	.cmaa-logo { padding: 10px 
+	}
+	
+.llc-logo{ margin: 20px;
+width: 80%
+}
+	
+	
+
+	h5.heading-alt {
+  text-transform: uppercase;
+  font-size: 15px;
+  line-height: 1.7;
+  letter-spacing: 0.5em;
+  color: #262627;
+
+	}
+
+	.block { display: block;
+    white-space: normal;
+    vertical-align: middle;
+	width: 100%;
+	
+
+}
+
+.wrapper {
+	white-space: nowrap;
+	align-content: center;
+
+}
+
+
+
+}
+
+
+
+@media (max-width: 550px){
+	.section { 
+		padding-left: 25px;
+		padding-right: 25px;
+	
+	}
+	
+	.cmaa-logo { 
+		width: 250px;
+		padding: 15px 15px 15px 15px;
+		margin-top: 15px;
+		
+
+	}
+	
+	#contacts-map{ height: 200px;}
+}
