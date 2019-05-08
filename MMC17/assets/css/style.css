@@ -2143,7 +2143,7 @@ span {
 }
 .light-text,
 .footer {
-  color: #7b0a6b;
+  color: #0173ae;
 }
 .light-text h1,
 .light-text h2,
@@ -2179,7 +2179,7 @@ span {
 .footer h6.heading-alt,
 .footer .h7.heading-alt,
 .footer .h8.heading-alt {
-  color: #7b0a6b;
+  color: #0173ae;
 }
 .dark-text {
   color: #000000;
@@ -7008,8 +7008,8 @@ margin-left: 50px
   opacity: 0.7;
 }
 .bg1.overlay:before {
-	opacity: .7;
-	background-color: #fff !important;
+	opacity: .8;
+	background-color: #222 !important;
 }
 .bg4.overlay:before {
     background-color: #A5CD38;
