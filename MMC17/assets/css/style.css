@@ -2318,7 +2318,7 @@ input[type=password].error,
 .header .buy-btn:active,
 .header .buy-btn.hovered,
 .header .buy-btn.pressed {
-  border-color: #A5CD38;
+  border-color: #006e9f;
 }
 .base-clr-bg,
 .overlay.overlay-clr:before,
@@ -2356,10 +2356,10 @@ input[type=password].error,
 .call-to-action-section > .overlay:before,
 .thumb-wrapper .overlay:before,
 .header  {
-  background-color: #A5CD38;
+  background-color: #006e9f;
 }
 
-.buy-btn{   background-color: #A5CD38;
+.buy-btn{   background-color: #006e9f;
 }
 
 .white-overlay:{ background-color: #fff}
@@ -2433,7 +2433,7 @@ input[type="submit"] + .loading,
 .header.header-color .navigation-header .buy-btn.pressed,
 input.header.header-color .navigation-header .buy-btn,
 .header .buy-btn {
-	color: #A5CD38;
+	color: #006e9f;
 }
 ::selection {
   color: #ffffff;
@@ -5387,7 +5387,7 @@ testimonial .text-box:before,
     font-size: 3em;
     font-weight: 700;
     line-height: 1px;
-	color: #A5CD38;
+	color: #006e9f;
 
 }
 
@@ -7009,10 +7009,10 @@ margin-left: 50px
 }
 .bg1.overlay:before {
 	opacity: .8;
-	background-color: #222 !important;
+	background-color: #111 !important;
 }
 .bg4.overlay:before {
-    background-color: #A5CD38;
+    background-color: #006e9f;
 	opacity: 0.85;
 }
 .bg5.overlay:before {
