@@ -2179,7 +2179,7 @@ span {
 .footer h6.heading-alt,
 .footer .h7.heading-alt,
 .footer .h8.heading-alt {
-  color: #0173ae;
+  color: #ffffff;
 }
 .dark-text {
   color: #000000;
@@ -6976,7 +6976,7 @@ margin-left: 50px
     Theme styles
 ---------------------------------------------------------------------------- */
 .bg1 {
-  background-image: url("../img/backgrounds/bg-new-orleans.png");
+  background-image: url("../img/backgrounds/NewOrleans_Blue01.jpg");
 }
 .bg2 {
   background-image: url("../img/backgrounds/bg1-new.jpg");
@@ -7008,8 +7008,8 @@ margin-left: 50px
   opacity: 0.7;
 }
 .bg1.overlay:before {
-	opacity: .8;
-	background-color: #111 !important;
+	opacity: 0;
+	background-color: #fff !important;
 }
 .bg4.overlay:before {
     background-color: #006e9f;
